@@ -3,6 +3,8 @@
 Projeto final de integração do curso de residência de software.
 Sistema é RESTful com um servidor Back- end API para guardar e gerenciar os personagens de RPG e o front-end utilizando HTML, CSS e JS.
 
+**Participamos do programa Residência de Software, que teve como objetivo formar novos profissionais🧠 para a área de desenvolvimento da região serrana do Rio de Janeiro.**
+
 # Tecnologias utilizadas.
 1. AdonisJS
 2. Axios
