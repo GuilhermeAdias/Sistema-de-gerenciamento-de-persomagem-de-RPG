@@ -7,3 +7,5 @@ adonis migration:run  --- roda as migration
 adonis make:controller Session --type http ---criar um novo controller 
 
 adonis make:migration users  ---cria migrations
+
+npm install -t  --para atualizar as dependencias
